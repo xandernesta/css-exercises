@@ -1,0 +1,14 @@
+.click,
+.click-instead {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.click {
+    color: white;
+    background-color: black;
+}
+
+.click-instead {
+    background-color: yellow;
+}
